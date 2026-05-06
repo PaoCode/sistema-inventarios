@@ -7,7 +7,7 @@ Esta aplicación permite generar un inventario de productos.
 - Agregar nuevo producto con su descripción, precio y existencia.
 - Modificar la información de los productos ya registrados.
 - Eliminar un producto.
-- Contiene mensajes de confirmación de cada una de las acciones
+- Contiene mensajes de confirmación de cada una de las acciones.
 
 ## Requisitos
 - Java 21
@@ -22,8 +22,8 @@ Esta aplicación permite generar un inventario de productos.
 - Configurar la base de datos MySQL.
 
 ## Ejecución Backend
-- Seleccionar la clase InventariosApplication (src/main/java/gm.inventarios/InventariosApplication)
-- Ejecutar la aplicación
+- Seleccionar la clase InventariosApplication (src/main/java/gm.inventarios/InventariosApplication).
+- Ejecutar la aplicación.
 
 ## Ejecución Frontend
 - Abrir una terminal.
